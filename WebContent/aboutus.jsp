@@ -129,9 +129,9 @@ Apart from organizing their own events they also provide their platform for whil
                                     
                                         <p>
                                             <br>
-                                            <b>Shreya Acharya</b>  
+                                            <b>Abc Xyz</b>  
                                             <br>
-                                            <span>Student ID : 2021 12127</span>
+                                            <span>Student ID : 123 456</span>
                                             <br>
                                             <a target="_blank" href="https://www.linkedin.com/in/shreya-a-13833721b/"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="https://github.com/ShreyaAcharya1"><i class="btn-lg fab fa-github"></i></a>
@@ -143,9 +143,9 @@ Apart from organizing their own events they also provide their platform for whil
                                         alt="">
                                         <p>
                                             <br>
-                                            <b>Meet Kalariya</b>  
+                                            <b>Abc Xyz</b>  
                                             <br>
-                                            <span>Student ID : 2021 12065</span>
+                                            <span>Student ID : 123 456</span>
                                             <br>
                                             <a target="_blank" href="https://www.linkedin.com/in/meet-kalariya-8974b4193/"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="https://github.com/202112065"><i class="btn-lg fab fa-github"></i></a>
@@ -157,9 +157,9 @@ Apart from organizing their own events they also provide their platform for whil
                                         alt="">
                                         <p>
                                             <br>
-                                            <b>Hardik kaneriya</b>  
+                                            <b>Abc Xyz</b>  
                                             <br>
-                                            <span>Student ID : 2021 12105</span>
+                                            <span>Student ID : 123 456</span>
                                             <br>
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
@@ -174,9 +174,9 @@ Apart from organizing their own events they also provide their platform for whil
 
                                         <p>
                                             <br>
-                                            <b>Nehi Desai</b>  
+                                            <b>Abc Xyz</b>  
                                             <br>
-                                            <span>Student ID : 2021 12099</span>
+                                            <span>Student ID : 123 456</span>
                                             <br>
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
@@ -189,9 +189,9 @@ Apart from organizing their own events they also provide their platform for whil
                                     
                                         <p>
                                             <br>
-                                            <b>Krina Vipani</b>  
+                                            <b>Abc Xyz</b>  
                                             <br>
-                                            <span>Student ID : 2021 12057</span>
+                                            <span>Student ID : 123 456</span>
                                             <br>
                                             <a target="_blank" href="https://www.linkedin.com/in/krina-vipani-1276431b9/"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
@@ -204,9 +204,9 @@ Apart from organizing their own events they also provide their platform for whil
                                     
                                         <p>
                                             <br>
-                                            <b>Mansi Jani</b>  
+                                            <b>Abc Xyz</b>  
                                             <br>
-                                            <span>Student ID : 2021 12120</span>
+                                            <span>Student ID : 123 456</span>
                                             <br>
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
                                             <a target="_blank" href="#"><i class="btn-lg fab fa-github"></i></a>
